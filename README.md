@@ -9,3 +9,6 @@ https://stackoverflow.com/questions/67552081/will-git-tag-automatically-move-to-
 https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu-22-04
 # How To Install Java with Apt on Ubuntu 22.04
 https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-on-ubuntu-22-04
+
+# How To Create a Pull Request on GitHub
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
