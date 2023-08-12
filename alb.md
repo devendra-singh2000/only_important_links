@@ -5,3 +5,6 @@ https://blog.devops.dev/create-an-application-loadbalancer-using-terraform-for-a
 
 # tothenew terraform-aws-alb
 https://github.com/tothenew/terraform-aws-alb/blob/master/main.tf
+
+# Provisioning an Application Load Balancer with Terraform
+https://hceris.com/provisioning-an-application-load-balancer-with-terraform/
